@@ -1,0 +1,17 @@
+[
+  { "id": 401, "german": "Supermarkt", "english": "supermarket", "article": "der", "example": "Der Supermarkt ist um die Ecke." },
+  { "id": 402, "german": "Geschäft", "english": "shop / store", "article": "das", "example": "Das Geschäft ist montags geschlossen." },
+  { "id": 403, "german": "Preis", "english": "price", "article": "der", "example": "Der Preis ist sehr hoch." },
+  { "id": 404, "german": "Geld", "english": "money", "article": "das", "example": "Hast du genug Geld dabei?" },
+  { "id": 405, "german": "Euro", "english": "euro", "article": "der", "example": "Das kostet zehn Euro." },
+  { "id": 406, "german": "Cent", "english": "cent", "article": "der", "example": "Es kostet 50 Cent." },
+  { "id": 407, "german": "Kasse", "english": "cash register / checkout", "article": "die", "example": "Die Kasse ist vorne im Geschäft." },
+  { "id": 408, "german": "Einkaufstüte", "english": "shopping bag", "article": "die", "example": "Die Einkaufstüte ist sehr voll." },
+  { "id": 409, "german": "kosten", "english": "to cost", "example": "Wie viel kostet das?" },
+  { "id": 410, "german": "billig", "english": "cheap", "example": "Das Hemd ist billig." },
+  { "id": 411, "german": "teuer", "english": "expensive", "example": "Diese Geräte sind sehr teuer." },
+  { "id": 412, "german": "Kleid", "english": "dress", "article": "das", "example": "Das Kleid ist sehr schön." },
+  { "id": 413, "german": "Hemd", "english": "shirt", "article": "das", "example": "Das Hemd ist blau." },
+  { "id": 414, "german": "Hose", "english": "pants", "article": "die", "example": "Die Hose passt perfekt." },
+  { "id": 415, "german": "Schuh", "english": "shoe", "article": "der", "example": "Der Schuh ist sehr bequem." }
+]

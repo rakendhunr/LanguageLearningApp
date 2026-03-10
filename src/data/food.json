@@ -1,0 +1,17 @@
+[
+  { "id": 301, "german": "Brot", "english": "bread", "article": "das", "example": "Ich kaufe frisches Brot beim Bäcker." },
+  { "id": 302, "german": "Käse", "english": "cheese", "article": "der", "example": "Der Käse ist sehr lecker." },
+  { "id": 303, "german": "Milch", "english": "milk", "article": "die", "example": "Ich trinke jeden Morgen Milch." },
+  { "id": 304, "german": "Ei", "english": "egg", "article": "das", "example": "Ein Ei zum Frühstück ist gesund." },
+  { "id": 305, "german": "Fleisch", "english": "meat", "article": "das", "example": "Das Fleisch ist zarth und saftig." },
+  { "id": 306, "german": "Fisch", "english": "fish", "article": "der", "example": "Der Fisch ist frisch vom Markt." },
+  { "id": 307, "german": "Apfel", "english": "apple", "article": "der", "example": "Der Apfel ist rot und süß." },
+  { "id": 308, "german": "Orange", "english": "orange", "article": "die", "example": "Die Orange ist voller Vitamin C." },
+  { "id": 309, "german": "Salat", "english": "salad", "article": "der", "example": "Der Salat ist frisch und knusprig." },
+  { "id": 310, "german": "Suppe", "english": "soup", "article": "die", "example": "Die Suppe ist warm und lecker." },
+  { "id": 311, "german": "Wasser", "english": "water", "article": "das", "example": "Ich trinke viel Wasser." },
+  { "id": 312, "german": "Kaffee", "english": "coffee", "article": "der", "example": "Der Kaffee ist sehr stark." },
+  { "id": 313, "german": "Tee", "english": "tea", "article": "der", "example": "Der Tee ist noch zu heiß." },
+  { "id": 314, "german": "Bier", "english": "beer", "article": "das", "example": "Das Bier ist kalt und erfrischend." },
+  { "id": 315, "german": "Restaurant", "english": "restaurant", "article": "das", "example": "Das Restaurant ist sehr gemütlich." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 801, "german": "Artikel", "english": "article", "article": "der", "example": "Artikel sind wichtig im Deutschen." },
+  { "id": 802, "german": "Nomen", "english": "noun", "article": "das", "example": "Ein Nomen ist ein Substantiv." },
+  { "id": 803, "german": "Verb", "english": "verb", "article": "das", "example": "Das Verb zeigt eine Aktion." },
+  { "id": 804, "german": "Adjektiv", "english": "adjective", "article": "das", "example": "Ein Adjektiv beschreibt Eigenschaften." },
+  { "id": 805, "german": "Genitiv", "english": "genitive case", "article": "der", "example": "Der Genitiv wird selten verwendet." },
+  { "id": 806, "german": "Nominativ", "english": "nominative case", "article": "der", "example": "Der Nominativ ist der Grundfall." },
+  { "id": 807, "german": "Akkusativ", "english": "accusative case", "article": "der", "example": "Der Akkusativ wird für Objekte verwendet." },
+  { "id": 808, "german": "Dativ", "english": "dative case", "article": "der", "example": "Der Dativ wird nach bestimmten Präpositionen verwendet." },
+  { "id": 809, "german": "Präposition", "english": "preposition", "article": "die", "example": "Eine Präposition verbindet Wörter." },
+  { "id": 810, "german": "Satz", "english": "sentence", "article": "der", "example": "Ein Satz hat ein Verb." },
+  { "id": 811, "german": "Frage", "english": "question", "article": "die", "example": "Eine Frage endet mit einem Fragezeichen." },
+  { "id": 812, "german": "Antwort", "english": "answer", "article": "die", "example": "Die Antwort ist einfach." },
+  { "id": 813, "german": "Pronomen", "english": "pronoun", "article": "das", "example": "Ein Pronomen ersetzt ein Nomen." },
+  { "id": 814, "german": "Konjunktion", "english": "conjunction", "article": "die", "example": "Eine Konjunktion verbindet zwei Sätze." },
+  { "id": 815, "german": "Wort", "english": "word", "article": "das", "example": "Ein Wort besteht aus Buchstaben." }
+]

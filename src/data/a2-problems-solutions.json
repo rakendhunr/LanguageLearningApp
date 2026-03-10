@@ -1,0 +1,17 @@
+[
+  { "id": 1, "german": "Problem", "english": "problem", "article": "das", "example": "Das ist ein großes Problem." },
+  { "id": 2, "german": "Fehler", "english": "mistake", "article": "der", "example": "Der Fehler ist klein." },
+  { "id": 3, "german": "beschwerde", "english": "complaint", "article": "die", "example": "Die Beschwerde ist berechtigt." },
+  { "id": 4, "german": "Lösung", "english": "solution", "article": "die", "example": "Die Lösung ist einfach." },
+  { "id": 5, "german": "Ärger", "english": "trouble", "article": "der", "example": "Ich habe Ärger mit meinem Auto." },
+  { "id": 6, "german": "Sorge", "english": "worry", "article": "die", "example": "Die Sorge ist unangenehm." },
+  { "id": 7, "german": "helfen", "english": "to help", "article": null, "example": "Kannst du mir helfen?" },
+  { "id": 8, "german": "reparieren", "english": "to repair", "article": null, "example": "Ich kann das reparieren." },
+  { "id": 9, "german": "beschwerde einreichen", "english": "to lodge a complaint", "article": null, "example": "Ich werde eine Beschwerde einreichen." },
+  { "id": 10, "german": "Qualität", "english": "quality", "article": "die", "example": "Die Qualität ist schlecht." },
+  { "id": 11, "german": "kaputt", "english": "broken", "article": null, "example": "Das ist kaputt." },
+  { "id": 12, "german": "richtig", "english": "correct", "article": null, "example": "Das ist nicht richtig." },
+  { "id": 13, "german": "falsch", "english": "wrong", "article": null, "example": "Das ist falsch." },
+  { "id": 14, "german": "beschädigen", "english": "to damage", "article": null, "example": "Der Paket ist beschädigt." },
+  { "id": 15, "german": "Reklamation", "english": "complaint/claim", "article": "die", "example": "Die Reklamation wird bearbeitet." }
+]

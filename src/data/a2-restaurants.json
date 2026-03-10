@@ -1,0 +1,17 @@
+[
+  { "id": 1, "german": "Tisch", "english": "table", "article": "der", "example": "Der Tisch ist für vier Personen." },
+  { "id": 2, "german": "Gabel", "english": "fork", "article": "die", "example": "Die Gabel liegt links." },
+  { "id": 3, "german": "Messer", "english": "knife", "article": "das", "example": "Das Messer ist scharf." },
+  { "id": 4, "german": "Löffel", "english": "spoon", "article": "der", "example": "Der Löffel liegt neben dem Teller." },
+  { "id": 5, "german": "Teller", "english": "plate", "article": "der", "example": "Der Teller ist voll." },
+  { "id": 6, "german": "Glas", "english": "glass", "article": "das", "example": "Das Glas ist leer." },
+  { "id": 7, "german": "Kellner", "english": "waiter", "article": "der", "example": "Der Kellner bringt das Essen." },
+  { "id": 8, "german": "Rechnung", "english": "bill", "article": "die", "example": "Die Rechnung kostet 50 Euro." },
+  { "id": 9, "german": "Speisekarte", "english": "menu", "article": "die", "example": "Die Speisekarte hat viele Gerichte." },
+  { "id": 10, "german": "Vorspeise", "english": "appetizer", "article": "die", "example": "Die Vorspeise war sehr lecker." },
+  { "id": 11, "german": "Hauptgang", "english": "main course", "article": "der", "example": "Der Hauptgang ist Hähnchen." },
+  { "id": 12, "german": "Nachtisch", "english": "dessert", "article": "der", "example": "Der Nachtisch ist Schokoladentorte." },
+  { "id": 13, "german": "Trinkgeld", "english": "tip", "article": "das", "example": "Ich gebe ein Trinkgeld von 5 Euro." },
+  { "id": 14, "german": "Besteck", "english": "cutlery", "article": "das", "example": "Das Besteck liegt auf dem Tisch." },
+  { "id": 15, "german": "Gericht", "english": "dish", "article": "das", "example": "Das Gericht sieht köstlich aus." }
+]

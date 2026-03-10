@@ -1,0 +1,17 @@
+[
+  { "id": 1, "german": "Plan", "english": "plan", "article": "der", "example": "Der Plan ist gut." },
+  { "id": 2, "german": "Termin", "english": "appointment", "article": "der", "example": "Der Termin ist nächsten Montag." },
+  { "id": 3, "german": "Verabredung", "english": "date", "article": "die", "example": "Die Verabredung ist um 18 Uhr." },
+  { "id": 4, "german": "Hoffnung", "english": "hope", "article": "die", "example": "Die Hoffnung ist groß." },
+  { "id": 5, "german": "Traum", "english": "dream", "article": "der", "example": "Der Traum wird wahr." },
+  { "id": 6, "german": "Absicht", "english": "intention", "article": "die", "example": "Die Absicht ist klar." },
+  { "id": 7, "german": "später", "english": "later", "article": null, "example": "Siehe dich später!" },
+  { "id": 8, "german": "bald", "english": "soon", "article": null, "example": "Es wird bald Weihnachten." },
+  { "id": 9, "german": "damals", "english": "back then", "article": null, "example": "Damals war alles anders." },
+  { "id": 10, "german": "einmal", "english": "once", "article": null, "example": "Einmal war ich in Berlin." },
+  { "id": 11, "german": "entschließen", "english": "to decide", "article": null, "example": "Ich bin entschlossen." },
+  { "id": 12, "german": "vorhaben", "english": "to plan", "article": null, "example": "Was hast du vor?" },
+  { "id": 13, "german": "erwarten", "english": "to expect", "article": null, "example": "Was erwartest du?" },
+  { "id": 14, "german": "freuen", "english": "to look forward to", "article": null, "example": "Ich freue mich auf Weihnachten." },
+  { "id": 15, "german": "vorsicht", "english": "caution", "article": "die", "example": "Vorsicht ist wichtig." }
+]

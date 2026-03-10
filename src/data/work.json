@@ -1,0 +1,17 @@
+[
+  { "id": 501, "german": "Arbeit", "english": "work / job", "article": "die", "example": "Meine Arbeit ist interessant." },
+  { "id": 502, "german": "Beruf", "english": "profession / occupation", "article": "der", "example": "Welcher Beruf ist dein Traum?" },
+  { "id": 503, "german": "Lehrer", "english": "teacher", "article": "der", "example": "Der Lehrer ist sehr streng." },
+  { "id": 504, "german": "Arzt", "english": "doctor", "article": "der", "example": "Der Arzt ist erfahren." },
+  { "id": 505, "german": "Krankenschwester", "english": "nurse", "article": "die", "example": "Die Krankenschwester ist freundlich." },
+  { "id": 506, "german": "Ingenieur", "english": "engineer", "article": "der", "example": "Der Ingenieur arbeitet bei VW." },
+  { "id": 507, "german": "Büro", "english": "office", "article": "das", "example": "Das Büro ist im dritten Stock." },
+  { "id": 508, "german": "Schule", "english": "school", "article": "die", "example": "Die Schule ist groß und modern." },
+  { "id": 509, "german": "Universität", "english": "university", "article": "die", "example": "Die Universität ist in München." },
+  { "id": 510, "german": "Klasse", "english": "class", "article": "die", "example": "Die Klasse hat 25 Schüler." },
+  { "id": 511, "german": "Lektion", "english": "lesson", "article": "die", "example": "Die Lektion ist schwierig." },
+  { "id": 512, "german": "Prüfung", "english": "exam", "article": "die", "example": "Die Prüfung ist am Freitag." },
+  { "id": 513, "german": "Noten", "english": "grades / marks", "article": "die", "example": "Die Noten werden nächste Woche verteilt." },
+  { "id": 514, "german": "Urlaub", "english": "vacation / holiday", "article": "der", "example": "Der Urlaub ist in zwei Wochen." },
+  { "id": 515, "german": "verdienen", "english": "to earn", "example": "Ich verdiene genug Geld." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "german": "Jacke", "english": "jacket", "article": "die", "example": "Die rote Jacke passt mir gut." },
+  { "id": 2, "german": "Schuhe", "english": "shoes", "article": "die", "example": "Die Schuhe sind sehr bequem." },
+  { "id": 3, "german": "Rock", "english": "skirt", "article": "der", "example": "Der schwarze Rock ist elegant." },
+  { "id": 4, "german": "Anzug", "english": "suit", "article": "der", "example": "Der Anzug ist grau." },
+  { "id": 5, "german": "Handschuhe", "english": "gloves", "article": "die", "example": "Die Handschuhe sind aus Leder." },
+  { "id": 6, "german": "Mütze", "english": "hat", "article": "die", "example": "Die Mütze ist schwarz." },
+  { "id": 7, "german": "Socken", "english": "socks", "article": "die", "example": "Die Socken sind weiß." },
+  { "id": 8, "german": "Schal", "english": "scarf", "article": "der", "example": "Der Schal ist warm." },
+  { "id": 9, "german": "Gürtel", "english": "belt", "article": "der", "example": "Der Gürtel ist braun." },
+  { "id": 10, "german": "Tasche", "english": "bag", "article": "die", "example": "Die Tasche ist aus Leder." },
+  { "id": 11, "german": "Größe", "english": "size", "article": "die", "example": "Welche Größe haben Sie?" },
+  { "id": 12, "german": "Farbe", "english": "color", "article": "die", "example": "Welche Farbe magst du?" },
+  { "id": 13, "german": "Preis", "english": "price", "article": "der", "example": "Der Preis ist teuer." },
+  { "id": 14, "german": "Material", "english": "material", "article": "das", "example": "Das Material ist Baumwolle." },
+  { "id": 15, "german": "passend", "english": "fitting", "article": null, "example": "Das Kleid ist sehr passend." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 101, "german": "aufstehen", "english": "to get up", "example": "Ich stehe um sieben Uhr auf." },
+  { "id": 102, "german": "frühstücken", "english": "to have breakfast", "example": "Ich frühstücke mit meiner Familie." },
+  { "id": 103, "german": "arbeiten", "english": "to work", "example": "Ich arbeite von neun bis fünf." },
+  { "id": 104, "german": "lernen", "english": "to study / learn", "example": "Ich lerne jeden Abend Deutsch." },
+  { "id": 105, "german": "schlafen", "english": "to sleep", "example": "Ich schlafe meistens acht Stunden." },
+  { "id": 106, "german": "kochen", "english": "to cook", "example": "Abends koche ich mit meiner Freundin." },
+  { "id": 107, "german": "einkaufen", "english": "to go shopping (groceries)", "example": "Samstags kaufe ich im Supermarkt ein." },
+  { "id": 108, "german": "zur Arbeit gehen", "english": "to go to work", "example": "Ich gehe mit dem Bus zur Arbeit." },
+  { "id": 109, "german": "Pause machen", "english": "to take a break", "example": "Mittags mache ich eine kurze Pause." },
+  { "id": 110, "german": "Mittagessen", "english": "lunch", "article": "das", "example": "Das Mittagessen ist um zwölf Uhr." },
+  { "id": 111, "german": "Abendessen", "english": "dinner", "article": "das", "example": "Wir essen um 19 Uhr Abendessen." },
+  { "id": 112, "german": "Zähne putzen", "english": "to brush teeth", "example": "Ich putze mir morgens die Zähne." },
+  { "id": 113, "german": "sich duschen", "english": "to take a shower", "example": "Ich dusche jeden Morgen." },
+  { "id": 114, "german": "Feierabend", "english": "end of the workday", "article": "der", "example": "Um 17 Uhr habe ich Feierabend." },
+  { "id": 115, "german": "spazieren gehen", "english": "to go for a walk", "example": "Abends gehe ich oft spazieren." }
+]

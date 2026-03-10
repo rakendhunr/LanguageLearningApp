@@ -1,0 +1,7 @@
+[
+  { "id": "A1", "name": "Beginner", "description": "Absolute beginner level" },
+  { "id": "A2", "name": "Elementary", "description": "Elementary proficiency" },
+  { "id": "B1", "name": "Intermediate", "description": "Intermediate proficiency" },
+  { "id": "B2", "name": "Upper Intermediate", "description": "Upper intermediate proficiency" },
+  { "id": "C1", "name": "Advanced", "description": "Advanced proficiency" }
+]

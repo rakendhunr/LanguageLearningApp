@@ -1,0 +1,17 @@
+[
+  { "id": 1, "german": "Zug", "english": "train", "article": "der", "example": "Der Zug fährt um 9 Uhr." },
+  { "id": 2, "german": "Auto", "english": "car", "article": "das", "example": "Sein Auto ist rot." },
+  { "id": 3, "german": "Flugzeug", "english": "airplane", "article": "das", "example": "Das Flugzeug landet in Berlin." },
+  { "id": 4, "german": "Ticket", "english": "ticket", "article": "das", "example": "Ich kaufe ein Ticket für den Bus." },
+  { "id": 5, "german": "Bahnhof", "english": "train station", "article": "der", "example": "Der Bahnhof ist in der Mitte der Stadt." },
+  { "id": 6, "german": "Flughafen", "english": "airport", "article": "der", "example": "Wir treffen uns am Flughafen." },
+  { "id": 7, "german": "Fahrkarte", "english": "ticket (for transport)", "article": "die", "example": "Die Fahrkarte kostet 15 Euro." },
+  { "id": 8, "german": "Verspätung", "english": "delay", "article": "die", "example": "Der Zug hat 30 Minuten Verspätung." },
+  { "id": 9, "german": "Koffer", "english": "suitcase", "article": "der", "example": "Mein Koffer ist schwer." },
+  { "id": 10, "german": "Reise", "english": "trip", "article": "die", "example": "Die Reise war sehr schön." },
+  { "id": 11, "german": "Fahrrad", "english": "bicycle", "article": "das", "example": "Ich fahre mit dem Fahrrad zur Arbeit." },
+  { "id": 12, "german": "Taxi", "english": "taxi", "article": "das", "example": "Wir nehmen ein Taxi zum Hotel." },
+  { "id": 13, "german": "Fahrkartenschalter", "english": "ticket counter", "article": "der", "example": "Der Fahrkartenschalter ist rechts." },
+  { "id": 14, "german": "Gepäck", "english": "luggage", "article": "das", "example": "Das Gepäck ist am Schalter." },
+  { "id": 15, "german": "Reiseroute", "english": "travel route", "article": "die", "example": "Die Reiseroute geht durch Frankreich." }
+]

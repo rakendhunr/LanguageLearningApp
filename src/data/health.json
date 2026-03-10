@@ -1,0 +1,17 @@
+[
+  { "id": 701, "german": "Gesundheit", "english": "health", "article": "die", "example": "Gesundheit ist das wichtigste." },
+  { "id": 702, "german": "Krankheit", "english": "illness / disease", "article": "die", "example": "Die Krankheit ist ansteckend." },
+  { "id": 703, "german": "krank", "english": "sick / ill", "example": "Ich bin leider krank." },
+  { "id": 704, "german": "Kopfschmerz", "english": "headache", "article": "der", "example": "Ich habe Kopfschmerzen." },
+  { "id": 705, "german": "Halsschmerz", "english": "sore throat", "article": "der", "example": "Ich habe schreckliche Halsschmerzen." },
+  { "id": 706, "german": "Fieber", "english": "fever", "article": "das", "example": "Das Fieber ist gestern gesunken." },
+  { "id": 707, "german": "Husten", "english": "cough", "article": "der", "example": "Der Husten ist furchtbar." },
+  { "id": 708, "german": "Schnupfen", "english": "cold / runny nose", "article": "der", "example": "Der Schnupfen ist lästig." },
+  { "id": 709, "german": "Kopf", "english": "head", "article": "der", "example": "Der Kopf tut mir weh." },
+  { "id": 710, "german": "Hals", "english": "throat", "article": "der", "example": "Der Hals ist wund." },
+  { "id": 711, "german": "Herz", "english": "heart", "article": "das", "example": "Das Herz schlägt schnell." },
+  { "id": 712, "german": "Lunge", "english": "lung", "article": "die", "example": "Die Lunge ist gesund." },
+  { "id": 713, "german": "Arm", "english": "arm", "article": "der", "example": "Der Arm ist verletzt." },
+  { "id": 714, "german": "Bein", "english": "leg", "article": "das", "example": "Das Bein ist schmerzhaft zu Fuß." },
+  { "id": 715, "german": "Auge", "english": "eye", "article": "das", "example": "Das Auge ist rot und entzündet." }
+]

@@ -1,0 +1,17 @@
+[
+  { "id": 1, "german": "Wetter", "english": "weather", "article": "das", "example": "Das Wetter ist schön." },
+  { "id": 2, "german": "Regen", "english": "rain", "article": "der", "example": "Der Regen ist stark." },
+  { "id": 3, "german": "Schnee", "english": "snow", "article": "der", "example": "Der Schnee liegt überall." },
+  { "id": 4, "german": "Sonne", "english": "sun", "article": "die", "example": "Die Sonne scheint zwischen den Wolken." },
+  { "id": 5, "german": "Wind", "english": "wind", "article": "der", "example": "Der Wind ist stark." },
+  { "id": 6, "german": "Temperatur", "english": "temperature", "article": "die", "example": "Die Temperatur beträgt 25 Grad." },
+  { "id": 7, "german": "Grad", "english": "degree", "article": "der", "example": "Es sind 20 Grad." },
+  { "id": 8, "german": "Baum", "english": "tree", "article": "der", "example": "Der Baum ist sehr groß." },
+  { "id": 9, "german": "Blume", "english": "flower", "article": "die", "example": "Die Blume ist rot." },
+  { "id": 10, "german": "Wald", "english": "forest", "article": "der", "example": "Der Wald ist schön." },
+  { "id": 11, "german": "Berg", "english": "mountain", "article": "der", "example": "Der Berg ist sehr hoch." },
+  { "id": 12, "german": "See", "english": "lake", "article": "der", "example": "Der See ist klar." },
+  { "id": 13, "german": "Meer", "english": "sea", "article": "das", "example": "Das Meer ist blau." },
+  { "id": 14, "german": "Strand", "english": "beach", "article": "der", "example": "Der Strand ist voll von Menschen." },
+  { "id": 15, "german": "Pflanze", "english": "plant", "article": "die", "example": "Die Pflanze braucht Wasser." }
+]

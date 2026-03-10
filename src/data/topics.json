@@ -1,0 +1,19 @@
+[
+  { "id": "a1-personal-info", "name": "Personal Information", "level": "A1" },
+  { "id": "a1-daily-life", "name": "Daily Life & Routine", "level": "A1" },
+  { "id": "a1-housing-home", "name": "Housing & Home", "level": "A1" },
+  { "id": "a1-food-drink", "name": "Food & Drink", "level": "A1" },
+  { "id": "a1-shopping-services", "name": "Shopping & Services", "level": "A1" },
+  { "id": "a1-work-education", "name": "Work & Education", "level": "A1" },
+  { "id": "a1-leisure-hobbies", "name": "Leisure & Hobbies", "level": "A1" },
+  { "id": "a1-health-body", "name": "Health & Body", "level": "A1" },
+  { "id": "a1-essential-grammar", "name": "Essential Grammar Words", "level": "A1" },
+  { "id": "a2-travel", "name": "Travel & Transportation", "level": "A2" },
+  { "id": "a2-restaurants", "name": "Restaurants & Dining", "level": "A2" },
+  { "id": "a2-clothing", "name": "Clothes & Fashion", "level": "A2" },
+  { "id": "a2-weather-nature", "name": "Weather & Nature", "level": "A2" },
+  { "id": "a2-appearance", "name": "Appearance & Descriptions", "level": "A2" },
+  { "id": "a2-past-events", "name": "Past Events & Stories", "level": "A2" },
+  { "id": "a2-planning-future", "name": "Planning & Future", "level": "A2" },
+  { "id": "a2-problems-solutions", "name": "Problems & Complaints", "level": "A2" }
+]

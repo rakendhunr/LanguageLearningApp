@@ -1,0 +1,61 @@
+{
+  "appTitle": "German Language Learner",
+  "intro": {
+    "welcome": "Welcome to German Learning!",
+    "description": "Master German vocabulary systematically with interactive exercises, pronunciation guides, and context examples.",
+    "startButton": "Let's Start Learning",
+    "description2": "Choose a proficiency level and explore vocabulary topics."
+  },
+  "overview": {
+    "title": "Choose Your Level",
+    "selectLevel": "Select a level to view available topics"
+  },
+  "vocabPractice": {
+    "title": "Vocabulary Practice",
+    "description": "Learn vocabulary with pronunciation and context examples",
+    "selectopic": "Select a topic to practice",
+    "back": "Back to Overview"
+  },
+  "personalInfo": {
+    "title": "Personal Information",
+    "subtitle": "Learn vocabulary for introducing yourself",
+    "contextLabel": "Context Example:"
+  },
+  "dailyLife": {
+    "title": "Daily Life & Routine",
+    "subtitle": "Learn vocabulary for daily routines and activities",
+    "examples": "Example Contexts:",
+    "contextLabel": "Context Example:"
+  },
+  "genericTrainer": {
+    "contextLabel": "Context Example:",
+    "pronunciation": "🔊 Pronounce",
+    "youknowthis": "I know this",
+    "needMorePractice": "Need more practice"
+  },
+  "quiz": {
+    "title": "Quick Translation Quiz",
+    "description": "Test your vocabulary knowledge with a quick quiz",
+    "question": "Translate to English:",
+    "yourAnswer": "Your answer:",
+    "submit": "Submit Answer",
+    "nextQuestion": "Next Question",
+    "correct": "✓ Correct!",
+    "incorrect": "✗ Incorrect",
+    "correctAnswer": "Correct answer: ",
+    "yourCorrectAnswer": "Your answer: ",
+    "finalScore": "Final Score",
+    "questions": "questions",
+    "backToOverview": "Back to Overview",
+    "talkGerman": "Let's talk some German! 🗣️"
+  },
+  "buttons": {
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "start": "Start"
+  },
+  "pagination": {
+    "of": "of"
+  }
+}

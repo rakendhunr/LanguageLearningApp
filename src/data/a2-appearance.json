@@ -1,0 +1,17 @@
+[
+  { "id": 1, "german": "groß", "english": "big", "article": null, "example": "Das Haus ist sehr groß." },
+  { "id": 2, "german": "klein", "english": "small", "article": null, "example": "Die Katze ist klein." },
+  { "id": 3, "german": "lang", "english": "long", "article": null, "example": "Das Haare sind lang." },
+  { "id": 4, "german": "kurz", "english": "short", "article": null, "example": "Die Haare sind kurz." },
+  { "id": 5, "german": "schlank", "english": "slim", "article": null, "example": "Sie ist sehr schlank." },
+  { "id": 6, "german": "dick", "english": "thick/fat", "article": null, "example": "Das Buch ist dick." },
+  { "id": 7, "german": "alt", "english": "old", "article": null, "example": "Der Mann ist alt." },
+  { "id": 8, "german": "jung", "english": "young", "article": null, "example": "Das Kind ist jung." },
+  { "id": 9, "german": "schön", "english": "beautiful", "article": null, "example": "Die Frau ist schön." },
+  { "id": 10, "german": "hässlich", "english": "ugly", "article": null, "example": "Das Gebäude ist hässlich." },
+  { "id": 11, "german": "Haare", "english": "hair", "article": "die", "example": "Die Haare sind braun." },
+  { "id": 12, "german": "Auge", "english": "eye", "article": "das", "example": "Das Auge ist blau." },
+  { "id": 13, "german": "Mund", "english": "mouth", "article": "der", "example": "Der Mund ist groß." },
+  { "id": 14, "german": "Nase", "english": "nose", "article": "die", "example": "Die Nase ist klein." },
+  { "id": 15, "german": "Gesicht", "english": "face", "article": "das", "example": "Das Gesicht ist rund." }
+]

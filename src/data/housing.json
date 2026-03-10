@@ -1,0 +1,17 @@
+[
+  { "id": 201, "german": "Haus", "english": "house", "article": "das", "example": "Wir leben in einem großen Haus." },
+  { "id": 202, "german": "Wohnung", "english": "apartment", "article": "die", "example": "Meine Wohnung ist zentral gelegun." },
+  { "id": 203, "german": "Zimmer", "english": "room", "article": "das", "example": "Das Zimmer ist hell und gemütlich." },
+  { "id": 204, "german": "Schlafzimmer", "english": "bedroom", "article": "das", "example": "Das Schlafzimmer ist im ersten Stock." },
+  { "id": 205, "german": "Wohnzimmer", "english": "living room", "article": "das", "example": "Wir sitzen oft im Wohnzimmer." },
+  { "id": 206, "german": "Küche", "english": "kitchen", "article": "die", "example": "Die Küche ist modern ausgestattet." },
+  { "id": 207, "german": "Bad", "english": "bathroom", "article": "das", "example": "Das Bad ist neben der Küche." },
+  { "id": 208, "german": "Tür", "english": "door", "article": "die", "example": "Die Tür ist weiß." },
+  { "id": 209, "german": "Fenster", "english": "window", "article": "das", "example": "Das Fenster geht zum Garten." },
+  { "id": 210, "german": "Bett", "english": "bed", "article": "das", "example": "Das Bett ist sehr komfortabel." },
+  { "id": 211, "german": "Tisch", "english": "table", "article": "der", "example": "Der Tisch steht in der Küche." },
+  { "id": 212, "german": "Stuhl", "english": "chair", "article": "der", "example": "Es gibt vier Stühle um den Tisch." },
+  { "id": 213, "german": "Sofa", "english": "sofa / couch", "article": "das", "example": "Das Sofa ist sehr bequem." },
+  { "id": 214, "german": "Lampe", "english": "lamp", "article": "die", "example": "Die Lampe ist zu hell." },
+  { "id": 215, "german": "Treppen", "english": "stairs", "article": "die", "example": "Die Treppen sind aus Holz." }
+]

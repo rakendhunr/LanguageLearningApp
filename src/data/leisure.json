@@ -1,0 +1,17 @@
+[
+  { "id": 601, "german": "Sport", "english": "sport / athletics", "article": "der", "example": "Ich spiele gern Sport." },
+  { "id": 602, "german": "Fußball", "english": "football / soccer", "article": "der", "example": "Fußball ist mein Lieblingssport." },
+  { "id": 603, "german": "Tennis", "english": "tennis", "article": "das", "example": "Tennis spielen ist sehr anstrengend." },
+  { "id": 604, "german": "Schwimmen", "english": "swimming", "article": "das", "example": "Schwimmen ist erfrischend." },
+  { "id": 605, "german": "Musik", "english": "music", "article": "die", "example": "Ich liebe klassische Musik." },
+  { "id": 606, "german": "Gitarre", "english": "guitar", "article": "die", "example": "Ich spiele Gitarre seit fünf Jahren." },
+  { "id": 607, "german": "Klavier", "english": "piano", "article": "das", "example": "Das Klavier ist ein schönes Instrument." },
+  { "id": 608, "german": "Buch", "english": "book", "article": "das", "example": "Das Buch ist sehr spannend." },
+  { "id": 609, "german": "Film", "english": "film / movie", "article": "der", "example": "Der Film war wunderbar." },
+  { "id": 610, "german": "Kino", "english": "cinema", "article": "das", "example": "Das Kino ist in der Stadt." },
+  { "id": 611, "german": "Spiel", "english": "game", "article": "das", "example": "Das Spiel ist sehr unterhaltsam." },
+  { "id": 612, "german": "Hobby", "english": "hobby", "article": "das", "example": "Mein Hobby ist Fotografie." },
+  { "id": 613, "german": "zeichnen", "english": "to draw", "example": "Ich zeichne gern Porträts." },
+  { "id": 614, "german": "malen", "english": "to paint", "example": "Sie malt Bilder mit Ölfarben." },
+  { "id": 615, "german": "Reisen", "english": "traveling", "article": "das", "example": "Ich liebe Reisen und Abenteuer." }
+]
